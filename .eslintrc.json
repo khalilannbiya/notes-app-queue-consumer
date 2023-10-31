@@ -12,6 +12,7 @@
   "rules": {
     "linebreak-style": "off",
     "quotes": "off",
-    "no-underscore-dangle": "off"
+    "no-underscore-dangle": "off",
+    "no-console": "off"
   }
 }
